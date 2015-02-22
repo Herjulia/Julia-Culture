@@ -1,0 +1,70 @@
+.mstheme
+{
+	nav-banner-image: url(spiband.gif);
+	separator-image: url(spiruled.gif);
+	list-image-1: url(spibul1d.gif);
+	list-image-2: url(spibul2d.gif);
+	list-image-3: url(spibul3d.gif);
+	navbutton-horiz-pushed: url(spinavhs.gif);
+	navbutton-horiz-normal: url(spinavhd.gif);
+	navbutton-vert-pushed: url(spinavvs.gif);
+	navbutton-vert-normal: url(spinavvd.gif);
+	navbutton-home-normal: url(spihomd.gif);
+	navbutton-up-normal: url(spiupd.gif);
+	navbutton-prev-normal: url(spipred.gif);
+	navbutton-next-normal: url(spinxtd.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 6;
+	color: rgb(0,51,102);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,255);
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(0,51,51);
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(0,51,51);
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(0,51,51);
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(0,51,51);
+}
+UL
+{
+	list-style-image:url(spibul1d.gif);
+}
+UL UL
+{
+	list-style-image:url(spibul2d.gif);
+}
+UL UL UL
+{
+	list-style-image:url(spibul3d.gif);
+}

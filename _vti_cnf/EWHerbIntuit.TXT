@@ -1,0 +1,11 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|14 Apr 2006 19:16:36 -0000
+vti_author:SR|CRYSTALTECH\\ghcom
+vti_modifiedby:SR|CRYSTALTECH\\ghcom
+vti_nexttolasttimemodified:TW|02 Dec 2004 16:24:04 -0000
+vti_timecreated:TR|16 Nov 2005 16:33:29 -0000
+vti_extenderversion:SR|5.0.2.6738
+vti_lineageid:SR|{2F6C8BDF-331F-45C0-A63E-AE4E454E99A4}
+vti_backlinkinfo:VX|
+vti_cacheddtm:TX|14 Apr 2006 19:16:36 -0000
+vti_filesize:IR|3125

@@ -1,0 +1,81 @@
+.mstheme
+{
+	nav-banner-image: url(spibana.gif);
+	separator-image: url(spirulea.gif);
+	list-image-1: url(spibul1a.gif);
+	list-image-2: url(spibul2a.gif);
+	list-image-3: url(spibul3a.gif);
+	navbutton-horiz-pushed: url(spinavhe.gif);
+	navbutton-horiz-normal: url(spinavha.gif);
+	navbutton-horiz-hovered: url(spinavhh.gif);
+	navbutton-vert-pushed: url(spinavve.gif);
+	navbutton-vert-normal: url(spinavva.gif);
+	navbutton-vert-hovered: url(spinavvh.gif);
+	navbutton-home-normal: url(spihoma.gif);
+	navbutton-home-hovered: url(spihomh.gif);
+	navbutton-home-pushed: url(spihoma.gif);
+	navbutton-up-normal: url(spiupa.gif);
+	navbutton-up-hovered: url(spiuph.gif);
+	navbutton-up-pushed: url(spiupa.gif);
+	navbutton-prev-normal: url(spiprea.gif);
+	navbutton-prev-hovered: url(spipreh.gif);
+	navbutton-prev-pushed: url(spiprea.gif);
+	navbutton-next-normal: url(spinxta.gif);
+	navbutton-next-hovered: url(spinxth.gif);
+	navbutton-next-pushed: url(spinxta.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 6;
+	color: rgb(255,255,204);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	color: rgb(51,102,102);
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 2;
+	text-align: right;
+	color: rgb(51,102,102);
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,255);
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 1;
+	color: rgb(255,255,255);
+}
+UL
+{
+	list-style-image:url(spibul1a.gif);
+}
+UL UL
+{
+	list-style-image:url(spibul2a.gif);
+}
+UL UL UL
+{
+	list-style-image:url(spibul3a.gif);
+}

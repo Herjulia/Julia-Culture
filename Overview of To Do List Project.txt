@@ -1,0 +1,14 @@
+NOTES: To Do List
+
+Structure
+HTML5 document with .css
+Apply JS to it
+DB: get George's recommendation...?mongo?, ?SQL?  
+
+GOAL:
+Create a simple composting to do list.
+	Obtain containers or create them
+	Obtain green material
+	Obtain brown material
+	Turn the compost
+	
